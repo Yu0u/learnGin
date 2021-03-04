@@ -1,0 +1,4 @@
+{"client_ip":"::1","latency_time":82533700,"level":"info","msg":"","req_method":"POST","req_uri":"/api/student/add","status_code":200,"time":"2021-03-04 16:54:08"}
+{"client_ip":"::1","latency_time":247627200,"level":"info","msg":"","req_method":"POST","req_uri":"/api/student/add","status_code":200,"time":"2021-03-04 16:54:43"}
+{"client_ip":"::1","latency_time":86201500,"level":"info","msg":"","req_method":"POST","req_uri":"/api/student/add","status_code":200,"time":"2021-03-04 16:54:48"}
+{"client_ip":"::1","latency_time":297506500,"level":"info","msg":"","req_method":"POST","req_uri":"/api/student/add","status_code":200,"time":"2021-03-04 16:55:00"}

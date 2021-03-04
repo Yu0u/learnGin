@@ -1,0 +1,4 @@
+time="2021-03-04T16:54:08+08:00" level=info client_ip="::1" latency_time=82.5337ms req_method=POST req_uri=/api/student/add status_code=200
+time="2021-03-04T16:54:43+08:00" level=info client_ip="::1" latency_time=247.6272ms req_method=POST req_uri=/api/student/add status_code=200
+time="2021-03-04T16:54:48+08:00" level=info client_ip="::1" latency_time=86.2015ms req_method=POST req_uri=/api/student/add status_code=200
+time="2021-03-04T16:55:00+08:00" level=info client_ip="::1" latency_time=297.5065ms req_method=POST req_uri=/api/student/add status_code=200
